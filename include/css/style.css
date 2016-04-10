@@ -1,0 +1,51 @@
+
+#navigation{
+  float:left
+}
+
+#search{
+    margin-top:20px
+}
+
+#firstRow img{
+  width:"830px"
+
+}
+
+#secondRow{
+  text-align: center;
+  margin-top: 20px;
+}
+
+#thirdRow{
+  text-align: center;
+  margin-top: 20px;
+}
+
+#fourthRow{
+  text-align: center;
+  margin-top: 20px;
+}
+
+div.container-fluid div.col-md-3 div:last-of-type{
+  /*text-align: center;*/
+  margin-left:40px;
+  margin-top:auto:20px;
+}
+
+div#main{
+  margin-top: 70;
+  /*display:none*/
+}
+
+div.col-md-3{
+  float:left;
+}
+
+
+div.container div.container-fluid div:first div ul{
+  color:"blue"
+}
+div#sideList ul{
+  text-transform: capitalize;
+}
